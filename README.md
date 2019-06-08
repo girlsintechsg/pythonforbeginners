@@ -1,4 +1,4 @@
-# Python For Beginners - Girls in Tech Singapore
+# Data and Analytics Python For Beginners - Girls in Tech Singapore
 
 This project contains the course material and code repository for the Girls in Tech Singapore python class. This class is intended for beginners, and is also intended to be instructor led.
 
