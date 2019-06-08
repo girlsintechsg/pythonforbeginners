@@ -12,3 +12,28 @@ This project has the following structure:
 - ExampleNotebooks/ - The course comes with some demo notebooks and real working python examples.
 
 ## How to use this project
+
+This project should be used in the following manner:
+
+- The presenter shall run through the slides up until the demo section. 
+- The presenter shall run through a Jupyter notebook demo, this can be run using either Google or Azure Juypter notebooks (or other available Juypter notebooks).
+- The first exercise takes the class through setting up their own Juypter notebook. This will be used for the follow-on exercises.
+- The students will run through their own Juypter notebook for each subsiquent exercise
+
+## Contributing to this project
+
+## Contacts
+
+- denright@outlook.com - Dave Enright - Project Contributor
+- kyawzinlatt94@gmail.com - Kywan Zin Latt - Project Contributor
+- tasha.abdulmutalib@girlsintech.org - Tasha Abdul Mutalib - Project Sponsor (Key Girls in Tech contact)
+
+## Changelog
+
+## Licensing
+
+## Future Learning
+
+Some useful self learning links:
+
+- <https://www.datacamp.com> - Learning python for data science.
