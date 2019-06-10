@@ -1,0 +1,5 @@
+# Ignore visual studio code files
+.vscode/
+
+# Ignore mac files like .DS_STORE
+.DS_STORE
